@@ -70,17 +70,7 @@ I enjoy turning ideas into real projects, exploring how software works under the
 
 ---
 
-## `> github stats`
 
-<div align="center">
-
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YiC-Li&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=38bdf8&text_color=c9d1d9" alt="YiC-Li GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiC-Li&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9" alt="Top languages" />
-
-</div>
-
----
 
 ## `> workspace`
 
